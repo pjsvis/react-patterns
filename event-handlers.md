@@ -2,7 +2,7 @@
 
 tldr; Use partial application to avoid re-rendering when using event handlers with parameters in React components.
 
-Below is a typical case where we map over an array of notes and add a deleteNote event handler for each note.
+Below is a typical case where we map over an array of notes and add an editNote event handler for each note.
 
 ```tsx
 <div>
