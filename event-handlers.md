@@ -53,7 +53,7 @@ export const NoteManager = (props: Props) => {
             {notes.map(x => (
                 <div key={x.id}>
                     <button type="button" onClick={editNote(x)}>
-                        Delete
+                        Edit
                     </button>
                     {x.content}
                 </div>
