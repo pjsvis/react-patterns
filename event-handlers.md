@@ -1,6 +1,6 @@
 # event-handlers
 
-tldr; Use partial application to avoid re-rendering when using event handlers with parameters in React components.
+tldr; Use [partial application and closures](https://hackernoon.com/ingredients-of-effective-functional-javascript-closures-partial-application-and-currying-66afe055102a) to avoid re-rendering when using event handlers with parameters in React components.
 
 Below is a typical case where we map over an array of notes and add an editNote event handler for each note.
 
