@@ -36,7 +36,7 @@ import someContainer, { SomeContainer } from '../Containers/SomeContainer';
 
 
 const someRandomMethod = (isDebug: boolean) => {
-  console.log(isDefault)
+  console.log(isDebug)
 }
 
 interface Props {}
