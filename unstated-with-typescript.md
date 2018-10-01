@@ -33,18 +33,22 @@ import * as React from 'react';
 import { Subscribe } from 'unstated';
 import someContainer, { SomeContainer } from '../Containers/SomeContainer';
 
-const someComponentMethod = (isDebug: boolean) => {
+
+
+const someRandomMethod = (isDebug: boolean) => {
   console.log(isDefault)
 }
+
+interface Props {}
 
 export const SomeComponent = (props: Props) => {
   return (
     <Subscribe to={[someContainer]}>
-      {(some: SomeContainer) => (
+      {(sc: SomeContainer) => (
         <>
-        {someComponentMethod(some.state.isDebug)}
+        {someRandomMethod(sc.state.isDebug)}
         <table>
-          {map(someContainer.getStuff(), x => (<tr key={x.id}><td>{x.id}</td>{x.name}<td</td></tr>)}
+          {map(sc.getStuff(), x => (<tr key={x.id}><td>{x.id}</td>{x.name}<td</td></tr>)}
         </>
         </table>
           )}
