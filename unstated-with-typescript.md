@@ -18,7 +18,7 @@ class SomeContainer extends Container<State> {
     isDebug: true
   }
 
-  someMethod = (param: number) => {
+  someContainerMethod = (param: number) => {
     alert(param)
   }
 }
@@ -33,8 +33,8 @@ import * as React from 'react';
 import { Subscribe } from 'unstated';
 import someContainer, { SomeContainer } from '../Containers/SomeContainer';
 
-const someMethod = (isDebug: boolean) => {
-console.log(isDefault)
+const someComponentMethod = (isDebug: boolean) => {
+  console.log(isDefault)
 }
 
 export const SomeComponent = (props: Props) => {
@@ -42,7 +42,7 @@ export const SomeComponent = (props: Props) => {
     <Subscribe to={[someContainer]}>
       {(some: SomeContainer) => (
         <>
-        {someMethod(some.state.isDebug)}
+        {someComponentMethod(some.state.isDebug)}
         </>
           )}
     </Subscribe>
