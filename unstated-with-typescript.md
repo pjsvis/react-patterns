@@ -18,8 +18,8 @@ class SomeContainer extends Container<State> {
     isDebug: true
   }
 
-  someContainerMethod = (param: number) => {
-    alert(param)
+  getStuff = (param: number) => {
+   return [{id: 1, name: 'thing 1'}, {id: 2, name: 'thing 2'}];
   }
 }
 const someContainer = new SomeContainer();
@@ -43,7 +43,10 @@ export const SomeComponent = (props: Props) => {
       {(some: SomeContainer) => (
         <>
         {someComponentMethod(some.state.isDebug)}
+        <table>
+          {map(someContainer.getStuff(), x => (<tr key={x.id}><td>{x.id}</td>{x.name}<td</td></tr>)}
         </>
+        </table>
           )}
     </Subscribe>
   );
