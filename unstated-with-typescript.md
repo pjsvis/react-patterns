@@ -37,7 +37,7 @@ const someMethod = (isDebug: boolean) => {
 console.log(isDefault)
 }
 
-export const AssignAnalystModal = (props: Props) => {
+export const SomeComponent = (props: Props) => {
   return (
     <Subscribe to={[someContainer]}>
       {(some: SomeContainer) => (
