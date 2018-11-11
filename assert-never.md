@@ -1,4 +1,21 @@
-# assert-never
+# typescript
+
+## pick and omit
+
+```javascript
+export interface Product {
+id: string;
+name: string;
+price: number;
+description: string;
+author: string
+authorLink: string;
+}
+
+export type ProductFormValues = Pick<Product, 'name' | 'price' | 'description'>
+```
+
+## assert-never
 
 ```javascript
 function assertNever(x: never): never {
