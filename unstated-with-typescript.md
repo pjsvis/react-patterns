@@ -30,7 +30,7 @@ Use the unstated container as follows
 
 ```javascript
 import * as React from 'react';
-import { Subscribe } from 'unstated';
+import { Provider, Subscribe } from 'unstated';
 import someContainer, { SomeContainer } from '../Containers/SomeContainer';
 
 
@@ -43,16 +43,18 @@ interface Props {}
 
 export const SomeComponent = (props: Props) => {
   return (
-    <Subscribe to={[someContainer]}>
-      {(sc: SomeContainer) => (
-        <>
-        {someRandomMethod(sc.state.isDebug)}
-        <table>
-          {map(sc.getStuff(), x => (<tr key={x.id}><td>{x.id}</td>{x.name}<td</td></tr>)}
-        </>
-        </table>
-          )}
-    </Subscribe>
+  <Provider>
+      <Subscribe to={[someContainer]}>
+        {(sc: SomeContainer) => (
+          <>
+          {someRandomMethod(sc.state.isDebug)}
+          <table>
+            {map(sc.getStuff(), x => (<tr key={x.id}><td>{x.id}</td>{x.name}<td</td></tr>)}
+          </>
+          </table>
+            )}
+      </Subscribe>
+    </Provider>
   );
 };
         
