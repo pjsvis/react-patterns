@@ -6,7 +6,7 @@
 
 ```typescript
   toggleConfirm = () => {
-    this.setState(prevState => ({isConfirm: !prevState.isConfirm});
+    this.setState(prevState => ({isConfirm: !prevState.isConfirm}));
   };
 ```
 
