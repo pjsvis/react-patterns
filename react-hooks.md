@@ -4,6 +4,7 @@
 - [Hooks with Typescript](https://blog.usejournal.com/using-react-hooks-with-typescript-aae6c7b2a3a9)
 - [Typescript react hooks](https://fettblog.eu/typescript-react/hooks/)
 - [React Final Form Hooks](https://github.com/final-form/react-final-form-hooks)
+- [useFetch](https://github.com/CharlesStover/fetch-suspense) with suspense
 
 ## async
 
