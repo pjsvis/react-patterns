@@ -9,3 +9,8 @@
 
 - [async warning](https://stackoverflow.com/questions/53332321/react-hook-warnings-for-async-function-in-useeffect-useeffect-function-must-ret)
 - [use-async-effect](https://www.npmjs.com/package/use-async-effect)
+
+## conditional css
+
+- [clsx](https://github.com/lukeed/clsx)
+- [obj-str](https://github.com/lukeed/obj-str)
