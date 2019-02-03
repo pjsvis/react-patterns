@@ -8,6 +8,7 @@
 - [useFetch](https://github.com/CharlesStover/fetch-suspense) with suspense 
 - [useGlobal](https://github.com/charlesStover/reactn)
 - [Spring Boot Push Notifications](https://spring.io/guides/gs/messaging-stomp-websocket/)
+- Run spring boot app with ```java -jar target/gs-messaging-stomp-websocket-0.1.0.jar```
 
 ## async
 
