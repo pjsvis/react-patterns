@@ -9,6 +9,7 @@
 - [useGlobal](https://github.com/charlesStover/reactn)
 - [Spring Boot Push Notifications](https://spring.io/guides/gs/messaging-stomp-websocket/)
 - Run spring boot app with ```java -jar target/gs-messaging-stomp-websocket-0.1.0.jar```
+- [push notifications](https://deskiz.com/blog/web-push-notifications-integration-anywhere-easiest-guide/)
 
 ## async
 
