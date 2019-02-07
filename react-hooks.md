@@ -4,6 +4,7 @@
 - [Hooks with Typescript](https://blog.usejournal.com/using-react-hooks-with-typescript-aae6c7b2a3a9)
 - [Typescript react hooks](https://fettblog.eu/typescript-react/hooks/)
 - [React Final Form Hooks](https://github.com/final-form/react-final-form-hooks)
+- [possible idea on how to adapt react-select](https://github.com/final-form/react-final-form/issues/364)
 - [React Suspense with the Fetch API](https://itnext.io/react-suspense-with-the-fetch-api-3ac88280a0de)
 - [useFetch](https://github.com/CharlesStover/fetch-suspense) with suspense 
 - [useGlobal](https://github.com/charlesStover/reactn)
