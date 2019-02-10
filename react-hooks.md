@@ -2,6 +2,7 @@
 
 ## forms
 
+- [useContext and useReducer](https://dev.to/oieduardorabelo/react-hooks-how-to-create-and-update-contextprovider-1f68) to share state across components
 - [Edit forms with react hooks](https://medium.com/@grigorylapshin/more-forms-with-react-hooks-2ea51fd60393)  [![Edit More forms w/ React Hooks](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/jvpz97mmww)
 
 - [How to fetch data](https://www.robinwieruch.de/react-hooks-fetch-data/)
