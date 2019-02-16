@@ -1,5 +1,8 @@
 # mermaid
 
+
+- ui-reducer [![Edit request-detail](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/8l07q1w1z9)
+
 ## contract
 
 ```mermaid
