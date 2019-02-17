@@ -1,5 +1,6 @@
 # links
 
+- [notion.io](https://www.notion.so))
 - [Jane Aire and the Belvederes](https://www.discogs.com/Jane-Aire-And-The-Belvederes-Jane-Aire-And-The-Belvederes/master/335222) on [www.discogs.com](http://discogs.com)
 - [Pearl Harbor and the Explosions](https://www.discogs.com/Pearl-Harbor-And-The-Explosions-Pearl-Harbor-And-The-Explosions/master/134196)
 - [The Bizarros](https://www.discogs.com/The-Bizarros-Lady-Doubonette/release/1550388)
