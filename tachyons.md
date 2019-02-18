@@ -14,6 +14,7 @@
 - [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss)
 - [tailwind and react-scripts](https://medium.com/@mikeeeeeeey/create-react-app-tailwind-css-feat-postcss-631d9e33ba8c)
 - [tailwind and react](https://itnext.io/how-to-use-tailwind-css-with-react-16e9d478b8b1)
+- [tailwind css in js](https://wetainment.com/articles/tailwind-css-in-js/)
 
 ## eveovlanle api
 
