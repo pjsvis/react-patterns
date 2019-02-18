@@ -12,3 +12,4 @@
 ## tailwind
 
 - [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss)
+- [tailwind and react-scripts](https://medium.com/@mikeeeeeeey/create-react-app-tailwind-css-feat-postcss-631d9e33ba8c)
