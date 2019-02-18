@@ -16,6 +16,10 @@
 - [tailwind and react](https://itnext.io/how-to-use-tailwind-css-with-react-16e9d478b8b1)
 - [tailwind css in js](https://wetainment.com/articles/tailwind-css-in-js/)
 
+## prisma graphql
+
+- [prisma graphql](https://wetainment.com/revealing-prismagraphql-magic/)
+
 ## eveovlanle api
 
 - [evolvable api](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
