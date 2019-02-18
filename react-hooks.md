@@ -20,6 +20,14 @@
 - Run spring boot app with ```java -jar target/gs-messaging-stomp-websocket-0.1.0.jar```
 - [push notifications](https://deskiz.com/blog/web-push-notifications-integration-anywhere-easiest-guide/)
 
+## interesting
+
+- [react-hanger](https://github.com/kitze/react-hanger) useInput
+- [useResource](https://github.com/schettino/react-request-hook) cancel api requests, nornmalised errors
+- [useClipboard](https://github.com/danoc/react-use-clipboard)
+- [useTimeout](https://www.npmjs.com/package/@rooks/use-timeout)
+- [usePolling](https://github.com/vivek12345/react-polling-hook)
+
 ## async
 
 - [async warning](https://stackoverflow.com/questions/53332321/react-hook-warnings-for-async-function-in-useeffect-useeffect-function-must-ret)
