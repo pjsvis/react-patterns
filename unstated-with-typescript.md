@@ -66,3 +66,4 @@ export const SomeComponent = (props: Props) => {
 - [unstated](https://github.com/jamiebuilds/unstated)
 - [managing state in react with unstated](https://able.bio/drenther/managing-state-in-react-with-unstated--35akdue)
 - [codesandbox example](https://codesandbox.io/s/ko27x3wvm3)
+- [good blog post on state management](https://medium.com/@amcdnl/the-future-of-javascript-state-management-is-less-state-management-ba1d97b99308)
