@@ -22,6 +22,7 @@
 
 ## interesting
 
+- [useDebounce](https://usehooks.com/useDebounce/)
 - [react-hanger](https://github.com/kitze/react-hanger) useInput
 - [useResource](https://github.com/schettino/react-request-hook) cancel api requests, nornmalised errors
 - [useClipboard](https://github.com/danoc/react-use-clipboard)
