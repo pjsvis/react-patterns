@@ -1,5 +1,9 @@
 # react-hooks
 
+## todo
+
+- [ ] add linter for hooks [linter](https://github.com/facebook/react/issues/14920)
+
 ## forms
 
 - [useReducer with forms](https://www.carlrippon.com/managing-state-in-functional-react-components-with-usereducer/)
