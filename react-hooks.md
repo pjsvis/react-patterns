@@ -3,6 +3,7 @@
 ## todo
 
 - [ ] add linter for hooks [linter](https://github.com/facebook/react/issues/14920)
+- [ ] [read complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 
 ## forms
 
