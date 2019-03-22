@@ -5,7 +5,7 @@
 ```typescript
 type Comparator<A> = (a:A, b: A) => boolean
 type Comparator<A> = (a:A, b:A) => numnber
-type Compatre = <A>(test: Comparator<A>) => Comparison<A>
+type Compare = <A>(test: Comparator<A>) => Comparison<A>
 
 const compare: Compare = (test) => (a, b) => {
   test(a,b) ? -1
