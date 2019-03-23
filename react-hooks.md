@@ -2,6 +2,7 @@
 
 ## todo
 
+- [ ] [from-from](https://www.futurice.com/blog/announcing-fromfrom/)
 - [ ] [react-error-boundary](https://github.com/bvaughn/react-error-boundary)
 - [ ] [eslint, prettier, typescript](https://dev.to/robertcoopercode/using-eslint-and-prettier-in-a-typescript-project-53jb)
 - [ ] add linter for hooks [linter](https://github.com/facebook/react/issues/14920)
