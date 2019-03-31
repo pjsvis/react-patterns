@@ -7,7 +7,7 @@ yarn add react-apollo apollo-boost graphql
 ```
 
 ```typescript
-import {ApollProvider} from 'react-apollo'
+import {ApolloProvider} from 'react-apollo'
 import ApolloClient from 'apollo-boost'
 
 
