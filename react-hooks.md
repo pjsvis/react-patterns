@@ -10,6 +10,7 @@
 
 ## forms
 
+- [react-form-hook](https://github.com/bluebill1049/react-hook-form)
 - [useReducer with forms](https://www.carlrippon.com/managing-state-in-functional-react-components-with-usereducer/)
 - [awesome react hooks](https://github.com/rehooks/awesome-react-hooks)
 - [useContext and useReducer](https://dev.to/oieduardorabelo/react-hooks-how-to-create-and-update-contextprovider-1f68) to share state across components
