@@ -1,5 +1,15 @@
 # react-hooks
 
+## cra 2
+
+- [ ] [polyfill for ie11](https://codeburst.io/hello-create-react-app-cra-typescript-8e04f7012939)
+
+```javascript
+yarn add react-app-polyfill
+and update src / index.tsx:
+import 'react-app-polyfill/ie11';
+```
+
 ## todo
 
 - [ ] [spin-kit](https://tobiasahlin.com/spinkit/)
