@@ -2,6 +2,7 @@
 
 ## cra 2
 
+- [ ] [react-profiler](https://blog.logrocket.com/5-things-you-didnt-know-about-react-devtools-2c6e0ef22529)
 - [ ] [polyfill for ie11](https://codeburst.io/hello-create-react-app-cra-typescript-8e04f7012939)
 
 ```javascript
