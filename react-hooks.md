@@ -13,6 +13,8 @@ import 'react-app-polyfill/ie11';
 
 ## todo
 
+- [ ] [hybrids](https://github.com/hybridsjs/hybrids) another web components implementation
+- [ ] [dinoQl](https://github.com/victorvoid/dinoql) graphQl equivalent for javascrip objects
 - [ ] [spin-kit](https://tobiasahlin.com/spinkit/)
 - [ ] [tachyons and styled components](https://medium.com/@jikkujose/tachyons-styled-components-pure-joy-6173d3888548)
 - [ ] [create a pie chart with d3 and react hooks](https://medium.com/stationfive/how-to-create-a-pie-chart-with-d3-js-and-react-hooks-part-1-81bcd7f39b32)
