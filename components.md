@@ -1,5 +1,6 @@
 # components
 
+- [hybrids](https://github.com/hybridsjs/hybrids)
 - [blueprint ui](https://blueprintjs.com)
 - [hotkeys](https://github.com/greena13/react-hotkeys)
 - [react-admin](https://github.com/marmelab/react-admin)
