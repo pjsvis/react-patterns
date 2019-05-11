@@ -20,7 +20,7 @@ import 'react-app-polyfill/ie11';
 - [ ] [tachyons and styled components](https://medium.com/@jikkujose/tachyons-styled-components-pure-joy-6173d3888548)
 - [ ] [create a pie chart with d3 and react hooks](https://medium.com/stationfive/how-to-create-a-pie-chart-with-d3-js-and-react-hooks-part-1-81bcd7f39b32)
 - [ ] [styled-components props](https://medium.com/@SilentHackz/styled-components-mastering-the-fundamentals-through-practice-9bd4a629b5df)
-- [ ] [react-spting](https://www.react-spring.io/) for animations with hooks
+- [ ] [react-spring](https://www.react-spring.io/) for animations with hooks
 - [ ] [making setInterval declarative with react hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 - [ ] [from-from](https://www.futurice.com/blog/announcing-fromfrom/)
 - [ ] [react-error-boundary](https://github.com/bvaughn/react-error-boundary)
