@@ -13,6 +13,7 @@ import 'react-app-polyfill/ie11';
 
 ## todo
 
+- [ ] [react-masonary](https://www.npmjs.com/package/react-masonry-layout)
 - [ ] [hybrids](https://github.com/hybridsjs/hybrids) another web components implementation
 - [ ] [dinoQl](https://github.com/victorvoid/dinoql) graphQl equivalent for javascrip objects
 - [ ] [spin-kit](https://tobiasahlin.com/spinkit/)
