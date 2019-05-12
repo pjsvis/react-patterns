@@ -1,5 +1,7 @@
 # components
 
+- [react-masonary-css](https://github.com/paulcollett/react-masonry-css)
+- [styled-flex-component](https://github.com/SaraVieira/styled-flex-component)
 - [hybrids](https://github.com/hybridsjs/hybrids)
 - [blueprint ui](https://blueprintjs.com)
 - [hotkeys](https://github.com/greena13/react-hotkeys)
