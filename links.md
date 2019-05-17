@@ -3,6 +3,7 @@
 - checkout marius schultz's [typescript-evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 - checkout [json decoder](https://dev.to/joanllenas/decoding-json-with-typescript-1jjc)
 - have a look at [realkit](https://reakit.io/docs/composition/) for switchable buttons eg categorise and compro data
+- see if we can get [accessibility insights](https://accessibilityinsights.io/) installed in chrome
 - [is it time to rewrite the OS in rust](https://www.youtube.com/watch?v=HgtRAbE1nBM), second system syndrom
 - [accessibility insights](https://accessibilityinsights.io/)
 - [degtster](https://dagster.readthedocs.io/en/0.4.3/) for MI with Jupyter Notebook support
