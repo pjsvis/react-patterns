@@ -1,5 +1,6 @@
 # links
 
+- have a look at [realkit](https://reakit.io/docs/composition/) for switchable buttons eg categorise and compro data
 - [is it time to rewrite the OS in rust](https://www.youtube.com/watch?v=HgtRAbE1nBM), second system syndrom
 - [accessibility insights](https://accessibilityinsights.io/)
 - [degtster](https://dagster.readthedocs.io/en/0.4.3/) for MI with Jupyter Notebook support
