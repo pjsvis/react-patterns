@@ -1,5 +1,6 @@
 # links
 
+- checkout [nws.io](https://nwjs.io/) formerly node-webkit
 - checkout marius schultz's [typescript-evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 - checkout [json decoder](https://dev.to/joanllenas/decoding-json-with-typescript-1jjc)
 - have a look at [realkit](https://reakit.io/docs/composition/) for switchable buttons eg categorise and compro data
