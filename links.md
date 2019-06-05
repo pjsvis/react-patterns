@@ -1,5 +1,6 @@
 # links
 
+- [svelte-devtools](https://github.com/RedHatter/svelte-devtools)
 - checkout [nws.io](https://nwjs.io/) formerly node-webkit
 - checkout marius schultz's [typescript-evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 - checkout [json decoder](https://dev.to/joanllenas/decoding-json-with-typescript-1jjc)
