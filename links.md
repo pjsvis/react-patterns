@@ -1,5 +1,6 @@
 # links
 
+- [typescript style guide](https://github.com/palmerhq/typescript)
 - [urql](https://formidable.com/blog/2019/urql-2019/) graphQl lib from Formidable Labs
 - [svelte-devtools](https://github.com/RedHatter/svelte-devtools)
 - checkout [nws.io](https://nwjs.io/) formerly node-webkit
