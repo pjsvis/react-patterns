@@ -1,5 +1,6 @@
 # links
 
+- [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [wordplay](https://daneden.me/2018/06/27/wordplay/)
 - [typescript style guide](https://github.com/palmerhq/typescript)
 - [urql](https://formidable.com/blog/2019/urql-2019/) graphQl lib from Formidable Labs
