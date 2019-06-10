@@ -11,7 +11,7 @@
 - see if we can get [accessibility insights](https://accessibilityinsights.io/) installed in chrome
 - [is it time to rewrite the OS in rust](https://www.youtube.com/watch?v=HgtRAbE1nBM), second system syndrom
 - [accessibility insights](https://accessibilityinsights.io/)
-- [degtster](https://dagster.readthedocs.io/en/0.4.3/) for MI with Jupyter Notebook support
+- [dagtster](https://dagster.readthedocs.io/en/0.4.3/) for MI with Jupyter Notebook support
 - [react-select-material-ui](https://github.com/iulian-radu-at/react-select-material-ui)
 - [react-final-form v5](https://github.com/final-form/react-final-form#helper-libraries)
 - [scroll to item](https://www.robinwieruch.de/react-scroll-to-item/)
