@@ -5,7 +5,8 @@
 - if it works, don't break it
 - make the difficult problem easy and then solve the easy problem
 - make it good enough, then move on to the next thing
-- avoid spefific knowledge and manual processes
+- avoid specific knowledge and manual processes
+- write locally, automated checks, internal staging
 - always jump into context
 - move fast with confidence
   - make it good
