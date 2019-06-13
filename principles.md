@@ -7,6 +7,10 @@
 - make it good enough, then move on to the next thing
 - avoid specific knowledge and manual processes
 - write locally, automated checks, internal staging
+  - tdd
+  - lint
+  - auto-format
+  - static type check
 - always jump into context
 - move fast with confidence
   - make it good
