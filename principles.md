@@ -10,7 +10,7 @@
   - make it good
   - make it fast 
   - make it pretty
-  - avoid specific knowledge and manual processes
+- avoid specific knowledge and manual processes
   - write locally, automated checks, internal staging
     - tdd
     - lint
