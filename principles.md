@@ -6,7 +6,6 @@
 - make it good enough, then move on to the next thing
 - always jump into context
 - move fast with confidence
-- iteration
   - make it good
   - make it fast 
   - make it pretty
