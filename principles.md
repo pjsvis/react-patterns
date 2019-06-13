@@ -8,3 +8,5 @@
   - make it pretty
 - avoid premature abstraction
 - avoid foot-guns
+- avoid cognitive overload
+- always jump into context
