@@ -1,5 +1,6 @@
 # links
 
+- [pretty-checkbox](https://lokesh-coder.github.io/pretty-checkbox/)
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [wordplay](https://daneden.me/2018/06/27/wordplay/)
 - [typescript style guide](https://github.com/palmerhq/typescript)
