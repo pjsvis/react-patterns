@@ -17,6 +17,7 @@
     - lint
     - auto-format
     - static type check
+- read [uncle bob](https://blog.cleancoder.com/)
 
 ### avoid
 
