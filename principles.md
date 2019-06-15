@@ -23,5 +23,5 @@
 - avoid premature/hasty abstraction see [the wrong abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) and [AHA programming](https://kentcdodds.com/blog/aha-programming)
 - avoid foot-guns
 - avoid cognitive overload
-- avoid ![design by committee](./images/design-by-committe.png)
+- avoid design by committee ![](https://github.com/pjsvis/react-patterns/blob/master/images/design-by-committee.png)
 
