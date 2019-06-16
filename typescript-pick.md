@@ -15,3 +15,6 @@ type FormValues = Pick<
 
 - Ref: https://medium.com/@curtistatewilkinson/typescript-2-1-and-the-power-of-pick-ff433f1e6fb
 
+```
+$TsFixMe = any;
+```
