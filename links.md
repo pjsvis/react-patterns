@@ -1,5 +1,6 @@
 # links
 
+- [verbal expressions](https://earth.google.com/web/@48.85829445,2.29433329,120a,909.58170927d,35y,166.12597668h,55t,0r/data=CgAoAg?beta=1) regex for humans
 - [pretty-checkbox](https://lokesh-coder.github.io/pretty-checkbox/)
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [wordplay](https://daneden.me/2018/06/27/wordplay/)
