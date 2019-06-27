@@ -1,5 +1,13 @@
 # links
 
+- [optimise react re-renders](https://kentcdodds.com/blog/optimize-react-re-renders#practical)
+- [avoiding recursive useEffect](https://javascriptplayground.com/avoiding-recursive-use-effect-hooks-react/)
+- [responsive flex](https://www.telerik.com/blogs/creating-a-responsive-layout-in-react?utm_medium=cpm&utm_source=frontendfocus&utm_campaign=kendo-ui-react-blog-responsive-app-with-hooks)
+- [docz](https://www.docz.site/)
+- [DOM features](https://blog.logrocket.com/8-dom-features-you-didnt-know-existed-ec2a0a28fd89/)
+- [accessibility](https://www.smashingmagazine.com/2019/06/web-accessibility-context/)
+- [a11y css](https://github.com/mike-engel/a11y-css-reset)
+- [beyond IE11](https://dev.to/samthor/what-to-expect-when-you-re-expecting-to-drop-ie11-ifg)
 - [favicons](https://dougsillars.com/2019/05/07/favicons-perhaps-the-least-understood-web-feature/)
 - [how to read colour hex codes](https://www.dotconferences.com/2018/11/david-desandro-read-color-hex-codes)
 - [verbal expressions](https://earth.google.com/web/@48.85829445,2.29433329,120a,909.58170927d,35y,166.12597668h,55t,0r/data=CgAoAg?beta=1) regex for humans
