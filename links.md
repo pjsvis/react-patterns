@@ -1,5 +1,7 @@
 # links
 
+- [favicons](https://dougsillars.com/2019/05/07/favicons-perhaps-the-least-understood-web-feature/)
+- [how to read colour hex codes](https://www.dotconferences.com/2018/11/david-desandro-read-color-hex-codes)
 - [verbal expressions](https://earth.google.com/web/@48.85829445,2.29433329,120a,909.58170927d,35y,166.12597668h,55t,0r/data=CgAoAg?beta=1) regex for humans
 - [pretty-checkbox](https://lokesh-coder.github.io/pretty-checkbox/)
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
