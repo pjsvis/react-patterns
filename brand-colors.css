@@ -31,15 +31,15 @@
 .hover-bg-sky-blue:focus { background-color: #004A87; }
 
 
-.violet { color: #694396; }
-.bg-violet { background-color: #694396; }
-.b--violet { border-color: #694396; }
+.violet-rbs { color: #694396; }
+.bg-violet-rbs { background-color: #694396; }
+.b--violet-rbs { border-color: #694396; }
 
-.hover-violet:hover,
-.hover-violet:focus { color: #694396; }
+.hover-violet-rbs:hover,
+.hover-violet-rbs:focus { color: #694396; }
 
-.hover-bg-violet:hover,
-.hover-bg-violet:focus { background-color: #694396; }
+.hover-bg-violet-rbs:hover,
+.hover-bg-violet-rbs:focus { background-color: #694396; }
 
 .light-blue { color: #007EA6; }
 .bg-light-blue { background-color: #007EA6; }
