@@ -19,3 +19,159 @@
 
 .hover-bg-heather:hover,
 .hover-bg-heather:focus { background-color: #95077D; }
+
+.sky-blue { color: #004A87; }
+.bg-sky-blue { background-color: #004A87; }
+.b--sky-blue { border-color: #004A87; }
+
+.hover-sky-blue:hover,
+.hover-sky-blue:focus { color: #004A87; }
+
+.hover-bg-sky-blue:hover,
+.hover-bg-sky-blue:focus { background-color: #004A87; }
+
+
+.violet { color: #694396; }
+.bg-violet { background-color: #694396; }
+.b--violet { border-color: #694396; }
+
+.hover-violet:hover,
+.hover-violet:focus { color: #694396; }
+
+.hover-bg-violet:hover,
+.hover-bg-violet:focus { background-color: #694396; }
+
+.light-blue { color: #007EA6; }
+.bg-light-blue { background-color: #007EA6; }
+.b--light-blue { border-color: #007EA6; }
+
+.hover-light-blue:hover,
+.hover-light-blue:focus { color: #007EA6; }
+
+.hover-bg-light-blue:hover,
+.hover-bg-light-blue:focus { background-color: #007EA6; }
+
+.sea-blue { color: #1E808F; }
+.bg-sea-blue { background-color: #1E808F; }
+.b--sea-blue { border-color: #1E808F; }
+
+.hover-sea-blue:hover,
+.hover-sea-blue:focus { color: #1E808F; }
+
+.hover-bg-sea-blue:hover,
+.hover-bg-sea-blue:focus { background-color: #1E808F; }
+
+.dark-grey { color: #333333; }
+.bg-dark-grey { background-color: #333333; }
+.b--dark-grey { border-color: #333333; }
+
+.hover-dark-grey:hover,
+.hover-dark-grey:focus { color: #333333; }
+
+.hover-bg-dark-grey:hover,
+.hover-bg-dark-grey:focus { background-color: #333333; }
+
+.grey { color: #C9C6C6; }
+.bg-grey { background-color: #C9C6C6; }
+.b--grey { border-color: #C9C6C6; }
+
+.hover-grey:hover,
+.hover-grey:focus { color: #C9C6C6; }
+
+.hover-bg-grey:hover,
+.hover-bg-grey:focus { background-color: #C9C6C6; }
+
+.light-grey { color: #F5F5F5; }
+.bg-light-grey { background-color: #F5F5F5; }
+.b--light-grey { border-color: #F5F5F5; }
+
+.hover-light-grey:hover,
+.hover-light-grey:focus { color: #F5F5F5; }
+
+.hover-bg-light-grey:hover,
+.hover-bg-light-grey:focus { background-color: #F5F5F5; }
+
+.red-error { color: #E60603; }
+.bg-red-error { background-color: #E60603; }
+.b--red-error { border-color: #E60603; }
+
+.hover-red-error:hover,
+.hover-red-error:focus { color: #E60603; }
+
+.hover-bg-red-error:hover,
+.hover-bg-red-error:focus { background-color: #E60603; }
+
+.pink { color: #B50059; }
+.bg-pink { background-color: #B50059; }
+.b--pink { border-color: #B50059; }
+
+.hover-pink:hover,
+.hover-pink:focus { color: #B50059; }
+
+.hover-bg-pink:hover,
+.hover-bg-pink:focus { background-color: #B50059; }
+
+.digital-orange { color: #DC6915; }
+.bg-digital-orange { background-color: #DC6915; }
+.b--digital-orange { border-color: #DC6915; }
+
+.hover-digital-orange:hover,
+.hover-digital-orange:focus { color: #DC6915; }
+
+.hover-bg-digital-orange:hover,
+.hover-bg-digital-orange:focus { background-color: #DC6915; }
+
+.light-grey2 { color: #EEEEEE; }
+.bg-light-grey2 { background-color: #EEEEEE; }
+.b--light-grey2 { border-color: #EEEEEE; }
+
+.hover-light-grey2:hover,
+.hover-light-grey2:focus { color: #EEEEEE; }
+
+.hover-bg-light-grey2:hover,
+.hover-bg-light-grey2:focus { background-color: #EEEEEE; }
+
+.light-blue2 { color: #00759B; }
+.bg-light-blue2 { background-color: #00759B; }
+.b--light-blue2 { border-color: #00759B; }
+
+.hover-light-blue2:hover,
+.hover-light-blue2:focus { color: #00759B; }
+
+.hover-bg-light-blue2:hover,
+.hover-bg-light-blue2:focus { background-color: #00759B; }
+
+.dark-grey2 { color: #666666; }
+.bg-dark-grey2 { background-color: #666666; }
+.b--dark-grey2 { border-color: #666666; }
+
+.hover-dark-grey2:hover,
+.hover-dark-grey2:focus { color: #666666; }
+
+.hover-bg-dark-grey2:hover,
+.hover-bg-dark-grey2:focus { background-color: #666666; }
+
+.focus { color: #4DAAE9; }
+.bg-focus { background-color: #4DAAE9; }
+.b--focus { border-color: #4DAAE9; }
+
+.hover-focus:hover,
+.hover-focus:focus { color: #4DAAE9; }
+
+.hover-bg-focus:hover,
+.hover-bg-focus:focus { background-color: #4DAAE9; }
+
+.green-confirm { color: #429448; }
+.bg-green-confirm { background-color: #429448; }
+.b--green-confirm { border-color: #429448; }
+
+.hover-green-confirm:hover,
+.hover-green-confirm:focus { color: #429448; }
+
+.hover-bg-green-confirm:hover,
+.hover-bg-green-confirm:focus { background-color: #429448; }
+
+
+
+
+
