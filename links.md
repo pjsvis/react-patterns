@@ -1,5 +1,6 @@
 # links
 
+- [email template patterns](https://tedgoas.github.io/Cerberus/)
 - [optimise react re-renders](https://kentcdodds.com/blog/optimize-react-re-renders#practical)
 - [avoiding recursive useEffect](https://javascriptplayground.com/avoiding-recursive-use-effect-hooks-react/)
 - [responsive flex](https://www.telerik.com/blogs/creating-a-responsive-layout-in-react?utm_medium=cpm&utm_source=frontendfocus&utm_campaign=kendo-ui-react-blog-responsive-app-with-hooks)
