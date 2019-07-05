@@ -1,1 +1,21 @@
+/* royal-blue*/
+.royal-blue { color: #002D64; }
+.bg-royal-blue { background-color: #002D64; }
+.b--royal-blue { border-color: #002D64; }
 
+.hover-royal-blue:hover,
+.hover-royal-blue:focus { color: #002D64; }
+
+.hover-bg-royal-blue:hover,
+.hover-bg-royal-blue:focus { background-color: #002D64; }
+
+/* heather */
+.heather { color: #95077D; }
+.bg-heather { background-color: #95077D; }
+.b--heather { border-color: #95077D; }
+
+.hover-heather:hover,
+.hover-heather:focus { color: #95077D; }
+
+.hover-bg-heather:hover,
+.hover-bg-heather:focus { background-color: #95077D; }
