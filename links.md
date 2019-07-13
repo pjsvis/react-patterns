@@ -1,5 +1,7 @@
 # links
 
+- [ripple efect](https://codeburst.io/create-a-material-design-ripple-effect-without-js-9d3cbee25b3e)
+- [debug](https://github.com/visionmedia/debug) A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers.
 - [react-icons](https://www.npmjs.com/package/react-icons) font-awesome, material, etc
 - [email template patterns](https://tedgoas.github.io/Cerberus/)
 - [optimise react re-renders](https://kentcdodds.com/blog/optimize-react-re-renders#practical)
