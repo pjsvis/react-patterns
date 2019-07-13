@@ -1,5 +1,6 @@
 ## svelte
 
+- [use web components](https://www.robinwieruch.de/react-web-components/) in react
 - [smelte](https://smelte.matyunya.now.sh) material design components for svelte)
 - [svelte](https://svelte.dev)
 - [webcomponents.dev](https://webcomponents.dev)
