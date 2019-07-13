@@ -1,5 +1,6 @@
 # links
 
+- [react-icons](https://www.npmjs.com/package/react-icons) font-awesome, material, etc
 - [email template patterns](https://tedgoas.github.io/Cerberus/)
 - [optimise react re-renders](https://kentcdodds.com/blog/optimize-react-re-renders#practical)
 - [avoiding recursive useEffect](https://javascriptplayground.com/avoiding-recursive-use-effect-hooks-react/)
