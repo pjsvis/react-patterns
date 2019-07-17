@@ -8,6 +8,7 @@
 
 ## stuff
 
+- [react-visibility-sensor](https://alligator.io/react/components-viewport-react-visibility-sensor/)
 - [tripetto](https://tripetto.com/sdk/developers/react/) form designer
 - [ripple efect](https://codeburst.io/create-a-material-design-ripple-effect-without-js-9d3cbee25b3e)
 - [debug](https://github.com/visionmedia/debug) A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers.
