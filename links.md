@@ -8,6 +8,9 @@
 
 ## stuff
 
+- [colorthief](https://lokeshdhakar.com/projects/color-thief/) generates a color palette from an image
+- [smashtest](https://smashtest.io/getting-started)
+- [quark](https://quarkjs.io/guide/intro.html#what-is-quark) app builder
 - [react-visibility-sensor](https://alligator.io/react/components-viewport-react-visibility-sensor/)
 - [tripetto](https://tripetto.com/sdk/developers/react/) form designer
 - [ripple efect](https://codeburst.io/create-a-material-design-ripple-effect-without-js-9d3cbee25b3e)
