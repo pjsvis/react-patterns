@@ -8,6 +8,8 @@
 
 ## stuff
 
+- [daishi kato](https://github.com/dai-shi) awesome hooks
+- [11ty and netlify](https://css-tricks.com/a-site-for-front-end-development-conferences-built-with-11ty-on-netlify/)
 - [colorthief](https://lokeshdhakar.com/projects/color-thief/) generates a color palette from an image
 - [smashtest](https://smashtest.io/getting-started)
 - [quark](https://quarkjs.io/guide/intro.html#what-is-quark) app builder
