@@ -10,6 +10,24 @@
 - [css and scalability](http://mrmrs.cc/writing/2016/03/24/scalable-css/)
 - [html semantics and front end architecure](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 
+## tachyons-ext
+
+- .cream {#f5ead0};
+
+```css
+
+.cream { color: #f5ead0; }
+.bg-cream { background-color: #f5ead0; }
+.b--cream { border-color: #f5ead0; }
+
+.hover-cream:hover,
+.hover-cream:focus { color: #f5ead0; }
+
+.hover-bg-cream:hover,
+.hover-bg-cream:focus { background-color: #f5ead0; }
+```
+
+
 ## tailwind
 
 - [awesome tailwind](https://github.com/aniftyco/awesome-tailwindcss)
