@@ -16,6 +16,8 @@
 
 ```css
 
+/* cream theme */
+
 .cream { color: #f5ead0; }
 .bg-cream { background-color: #f5ead0; }
 .b--cream { border-color: #f5ead0; }
@@ -25,6 +27,32 @@
 
 .hover-bg-cream:hover,
 .hover-bg-cream:focus { background-color: #f5ead0; }
+
+/* tan theme */
+
+.tan { color: #f5b68b; }
+.bg-tan { background-color: #f5b68b; }
+.b--tan { border-color: #f5b68b; }
+
+.hover-tan:hover,
+.hover-tan:focus { color: #f5b68b; }
+
+.hover-bg-tan:hover,
+.hover-bg-tan:focus { background-color: #f5b68b; }
+
+/* light-tan */
+
+
+.light-tan { color: #F8D6A5; }
+.bg-light-tan { background-color: #F8D6A5; }
+.b--light-tan { border-color: #F8D6A5; }
+
+.hover-light-tan:hover,
+.hover-light-tan:focus { color: #F8D6A5; }
+
+.hover-bg-light-tan:hover,
+.hover-bg-light-tan:focus { background-color: #F8D6A5; }
+
 ```
 
 
