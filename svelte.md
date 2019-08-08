@@ -1,5 +1,6 @@
 ## svelte
 
+- [checkbox treeview](https://svelte.dev/repl/3db8fdf6abfe4b2097a419ebf8e8eca7?version=3.6.10)
 - [use web components](https://www.robinwieruch.de/react-web-components/) in react
 - [smelte](https://smelte.matyunya.now.sh) material design components for svelte)
 - [svelte](https://svelte.dev)
@@ -10,7 +11,7 @@
 - [netlify](https://www.netlify.com/)
 - [reactive programming with svelte](https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969/)
 
-## .eslintrc
+## .eslintrc.js
 
 - [ref](https://gist.github.com/jimjones26/ab4f680aa26fd952185c19766e79178b)
 
