@@ -9,3 +9,78 @@
 - [svelte and cosmic js](https://cosmicjs.com/articles/build-a-simple-todo-app-using-svelte-and-cosmic-js)
 - [netlify](https://www.netlify.com/)
 - [reactive programming with svelte](https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969/)
+
+## .eslintrc
+
+- [ref](https://gist.github.com/jimjones26/ab4f680aa26fd952185c19766e79178b)
+
+```json
+/* module.exports = {
+  env: {
+    browser: true,
+    es6: true,
+  },
+  extends: [
+    'airbnb-base',
+  ],
+  globals: {
+    Atomics: 'readonly',
+    SharedArrayBuffer: 'readonly',
+  },
+  parserOptions: {
+    ecmaVersion: 2018,
+    sourceType: 'module',
+  },
+  rules: {
+  },
+};
+ */
+module.exports = {
+  extends: [
+    'airbnb-base',
+    'eslint:recommended',
+    'plugin:import/errors',
+    'plugin:import/typescript',
+    'plugin:import/warnings',
+    'prettier'
+  ],
+  parser: 'babel-eslint',
+  parserOptions: {
+    ecmaVersion: 2019,
+    sourceType: 'module'
+  },
+  env: {
+    browser: true,
+    node: true,
+    jest: true,
+    es6: true
+  },
+  root: true,
+  rules: {
+    'import/prefer-default-export': 2,
+    semi: ['error', 'never'],
+    'prettier/prettier': [
+      2,
+      {
+        arrowParens: 'avoid',
+        bracketSpacing: true,
+        endOfLine: 'lf',
+        printWidth: 80,
+        semi: false,
+        singleQuote: true,
+        svelteBracketNewLine: true,
+        svelteSortOrder: 'scripts-styles-markup',
+        svelteStrictMode: true,
+        tabWidth: 2,
+        useTabs: false
+      }
+    ]
+  },
+  plugins: ['html', 'prettier', 'svelte3'],
+  overrides: [
+    {
+      files: ['**/*.svelte'],
+      processor: 'svelte3/svelte3'
+    }
+  ]
+```
