@@ -1,5 +1,6 @@
 ## svelte
 
+- [svelte material ui](https://github.com/hperrin/svelte-material-ui)
 - [star wars resources](https://www.telerik.com/blogs/5-star-wars-resources-for-developers) see also lorem ispum stuff
 - [smelte crud app](https://github.com/Kiho/smelte-crud-app)
 - [checkbox treeview](https://svelte.dev/repl/3db8fdf6abfe4b2097a419ebf8e8eca7?version=3.6.10)
