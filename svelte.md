@@ -1,5 +1,6 @@
 ## svelte
 
+- [purgeCss](https://github.com/FullHuman/purgecss)
 - [tailwind css template](https://github.com/alexdilley/tailwindcss-sveltejs-component-template)
 - [svelte material ui](https://github.com/hperrin/svelte-material-ui)
 - [star wars resources](https://www.telerik.com/blogs/5-star-wars-resources-for-developers) see also lorem ispum stuff
