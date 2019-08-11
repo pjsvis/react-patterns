@@ -1,6 +1,7 @@
 ## svelte
 
-- [rtextarea autosize](https://jsbin.com/qizepev/edit?html,css,js,output) with css and js
+- [svelte draggable grid](https://github.com/vaheqelyan/svelte-grid)
+- [textarea autosize](https://jsbin.com/qizepev/edit?html,css,js,output) with css and js
 - [purgeCss](https://github.com/FullHuman/purgecss)
 - [tailwind css template](https://github.com/alexdilley/tailwindcss-sveltejs-component-template)
 - [svelte material ui](https://github.com/hperrin/svelte-material-ui)
