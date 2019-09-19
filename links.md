@@ -1,5 +1,11 @@
 # links
 
+## apps
+
+- [airtable](https://airtable.com) spreadsheet/database thing
+- [descript](https://www.descript.com/) podcast creator
+
+
 ## xstate
 
 - [keyframers](https://codepen.io/team/keyframers/)
