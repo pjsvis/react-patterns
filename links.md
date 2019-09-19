@@ -5,7 +5,6 @@
 - [airtable](https://airtable.com) spreadsheet/database thing
 - [descript](https://www.descript.com/) podcast creator
 
-
 ## xstate
 
 - [keyframers](https://codepen.io/team/keyframers/)
@@ -14,6 +13,8 @@
 
 ## stuff
 
+- [mike jackson's](https://github.com/mjackson/react-loop-2019) composing hooks code
+- [turbolinks](https://github.com/turbolinks/turbolinks) Get the performance benefits of a single-page application without the added complexity of a client-side JavaScript framework.
 - [ui suite](https://github.com/rsuite/rsuite) comprehensive suite of react components
 - [kye](https://github.com/sindresorhus/ky) http lib based on fetch
 - [daishi kato](https://github.com/dai-shi) awesome hooks
