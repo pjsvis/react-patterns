@@ -1,6 +1,7 @@
 ## render-component
 
 - [components as data](https://www.youtube.com/watch?time_continue=2046&v=4cEJ-1rXqMg)
+- [using apollo with typescript](https://www.apollographql.com/docs/react/development-testing/static-typing/)
 
 Components as Data moves the "decouple line" further toward the frontend to absorb queries, denormalization, business logic, and A/B testing into the backend. In practice, the API serves JSON structured in terms of the tree of UI components that will be used to render the respective data. In doing so, it becomes a quasi frontend in its own right, but it renders JSON instead of HTML or native views. This enables some amazing features:
 
