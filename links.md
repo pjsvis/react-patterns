@@ -13,6 +13,7 @@
 
 ## stuff
 
+- [repeater](https://repeater.js.org/docs/quickstart) The missing constructor for creating safe async iterators
 - [map in javascript](http://thecodebarbarian.com/the-80-20-guide-to-maps-in-javascript.html)
 - [mike jackson's](https://github.com/mjackson/react-loop-2019) composing hooks code
 - [turbolinks](https://github.com/turbolinks/turbolinks) Get the performance benefits of a single-page application without the added complexity of a client-side JavaScript framework.
