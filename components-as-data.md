@@ -132,12 +132,42 @@ export const Slide = (props) => {
 
 export const Slideshow = (props) => {
 const slideNumber = useTimedCounter(props.items.length)
-return (
-  <div className="slideshow">
-    {props.items.map(slide => 
-      renderComponent(COMPONENTS_DICTIONARY, {...slide, slideNumber})
-    )}
-  </div>
-)
+  return (
+    <div className="slideshow">
+      {props.items.map(slide => 
+        renderComponent(COMPONENTS_DICTIONARY, {...slide, slideNumber})
+      )}
+    </div>
+  )
+}
+
+export const Shelf = (props) => {
+  return (
+    <div className="shelf">
+      {
+        props.items.map(tile => renderComponent((COMPONENTS_DICTIONARY, {...tile, slideNumber})
+      )}
+    </div>
+  )
+}
+
+export const App = (props) => {
+  const [loading, data] = useComponentAPIFetch()
+  if(loading){
+    return 'loading...'
+  }
+  return (
+    <div>
+      <section className="featured>
+        {renderComponent(FEATURED_DICTIONARY, data.featured)}
+      </section>
+      <section className="sections">
+        {data.sections.map(section => 
+          renderComponent(SECTIONS_DICTIONARY, section)
+        )}
+      </section>
+    </div>
+  )
+  
 }
 ```
