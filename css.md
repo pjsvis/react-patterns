@@ -16,6 +16,4 @@
 .exit {
   animation-timing-function: cubic-beziez(0.5, 0, 0, 1);)
 }
-
-
 ```
