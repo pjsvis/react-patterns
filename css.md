@@ -39,4 +39,4 @@ a[href$=".pdf"] {
 - [css grid demos](https://tobireif.com/demos/grid/) and [article](https://tobireif.com/posts/layout_fun_with_css_grid/)
 - [more css grid](https://www.freecodecamp.org/news/css-grid-changes-how-we-can-think-about-structuring-our-content/?ref=heydesigner)
 - [clickable area](https://ishadeed.com/article/clickable-area/)
-- [theme-ui](https://theme-ui.com/)
+- [theme-ui](https://theme-ui.com/) and [theme-ui types](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/theme-ui/index.d.ts)
