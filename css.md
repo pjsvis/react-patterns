@@ -41,3 +41,5 @@ a[href$=".pdf"] {
 - [clickable area](https://ishadeed.com/article/clickable-area/)
 - [theme-ui](https://theme-ui.com/) and [theme-ui types](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/theme-ui/index.d.ts)
 - [more chrome devtools tips](https://dev.to/lpellis/things-you-may-not-know-about-chrome-devtools-53k6)
+- [managing layers with css variables](https://dev.to/seibmacdaniel/an-incredibly-easy-way-to-manage-layers-in-scss-42c1)
+- [small css tips](https://dev.to/seibmacdaniel/3-easy-to-apply-css-improvements-that-you-can-use-in-your-project-right-now-208e)
