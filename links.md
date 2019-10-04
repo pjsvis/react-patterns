@@ -13,6 +13,7 @@
 
 ## stuff
 
+- [remove background](https://www.remove.bg/upload) from image
 - [repeater](https://repeater.js.org/docs/quickstart) The missing constructor for creating safe async iterators
 - [map in javascript](http://thecodebarbarian.com/the-80-20-guide-to-maps-in-javascript.html)
 - [mike jackson's](https://github.com/mjackson/react-loop-2019) composing hooks code
