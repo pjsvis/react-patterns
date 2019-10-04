@@ -13,6 +13,7 @@
 
 ## stuff
 
+- [carbon](https://github.com/carbon-app/carbon) code renderer
 - [remove background](https://www.remove.bg/upload) from image
 - [repeater](https://repeater.js.org/docs/quickstart) The missing constructor for creating safe async iterators
 - [map in javascript](http://thecodebarbarian.com/the-80-20-guide-to-maps-in-javascript.html)
