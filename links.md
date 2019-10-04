@@ -13,6 +13,7 @@
 
 ## stuff
 
+- [sweet alert](https://sweetalert2.github.io/) replacement for alerts with lots of features
 - [carbon](https://github.com/carbon-app/carbon) code renderer
 - [remove background](https://www.remove.bg/upload) from image
 - [repeater](https://repeater.js.org/docs/quickstart) The missing constructor for creating safe async iterators
