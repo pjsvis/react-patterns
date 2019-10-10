@@ -13,6 +13,11 @@
 
 ## stuff
 
+- [space, grids, and layout](https://www.designsystems.com/space-grids-and-layouts/)
+- [moveable](https://daybrush.com/moveable/) is draggable, resizable, scalable, rotatable, pinchable
+- [react-tabulator](http://tabulator.info/) looks like it has grown up
+- [animated icons](https://react.useanimations.com/)
+- [react-hook-form](https://react-hook-form.com/) awesome and minimalist forms library
 - [sweet alert](https://sweetalert2.github.io/) replacement for alerts with lots of features
 - [carbon](https://github.com/carbon-app/carbon) code renderer
 - [remove background](https://www.remove.bg/upload) from image
