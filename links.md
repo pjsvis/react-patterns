@@ -13,6 +13,9 @@
 
 ## stuff
 
+- [quicktype](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) json to type converter
+  - [awesome typed datasets](https://github.com/typeguard/awesome-typed-datasets) created with quicktype
+- [switch object pattern with typescript](https://maxburson.com/switch-object-pattern-with-typescript/)
 - [space, grids, and layout](https://www.designsystems.com/space-grids-and-layouts/)
 - [moveable](https://daybrush.com/moveable/) is draggable, resizable, scalable, rotatable, pinchable
 - [react-tabulator](http://tabulator.info/) looks like it has grown up
