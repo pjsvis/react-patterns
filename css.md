@@ -36,6 +36,7 @@ a[href$=".pdf"] {
 }
 ```
 
+- [grid layout techniques](https://www.youtube.com/watch?v=KOvGeFUHAC0)
 - [responsive tables](https://uglyduck.ca/responsive-tables/) with minimal css
 - [css grid demos](https://tobireif.com/demos/grid/) and [article](https://tobireif.com/posts/layout_fun_with_css_grid/)
 - [more css grid](https://www.freecodecamp.org/news/css-grid-changes-how-we-can-think-about-structuring-our-content/?ref=heydesigner)
