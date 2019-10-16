@@ -18,6 +18,7 @@
 
 ## stuff
 
+- [scroll shadows](https://css-scroll-shadows.now.sh/?bgColor=3a61a8&shadowColor=222222&pxSize=15)
 - [fab floating button](https://dericgw.github.io/react-tiny-fab/)
 - [quicktype](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) json to type converter
   - [awesome typed datasets](https://github.com/typeguard/awesome-typed-datasets) created with quicktype
