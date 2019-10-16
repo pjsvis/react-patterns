@@ -18,6 +18,7 @@
 
 ## stuff
 
+- [fab floating button](https://dericgw.github.io/react-tiny-fab/)
 - [quicktype](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) json to type converter
   - [awesome typed datasets](https://github.com/typeguard/awesome-typed-datasets) created with quicktype
 - [switch object pattern with typescript](https://maxburson.com/switch-object-pattern-with-typescript/)
