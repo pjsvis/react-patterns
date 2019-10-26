@@ -1,6 +1,7 @@
 # tachyons
 
 - [tachyons](http://tachyons.io/)
+- [tachyons grid layout](https://www.npmjs.com/package/tachyons-grid-layout)
 - [tachyons cheatsheet](https://roperzh.github.io/tachyons-cheatsheet/)
 - [tachyons tl;dr](https://tachyons-tldr.now.sh/#/classes) with theme builder
 - [colors.css](https://clrs.cc/)
