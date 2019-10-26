@@ -1,5 +1,6 @@
 ## svelte
 
+- [m volkmann](https://github.com/mvolkmann/talks/blob/master/svelte/svelte-nordicjs.key.pdf) presentation
 - [svelte draggable grid](https://github.com/vaheqelyan/svelte-grid)
 - [textarea autosize](https://jsbin.com/qizepev/edit?html,css,js,output) with css and js
 - [purgeCss](https://github.com/FullHuman/purgecss)
