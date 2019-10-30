@@ -1,5 +1,6 @@
 ## css
 
+- [lobotomised owl selectors](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/) for sensible margins
 - [ascii emoticons](https://upli.st/l/list-of-all-ascii-emoticons) ( ͡° ͜ʖ ͡°)
 - [unobtrusive scrollbar](https://codepen.io/zachleat/pen/oNvprpX)
 - [focus-within](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within)
