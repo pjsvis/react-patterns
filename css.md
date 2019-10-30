@@ -1,5 +1,6 @@
 ## css
 
+- [grid cheatsheet](http://grid.malven.co/)
 - [lobotomised owl selectors](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/) for sensible margins -doesn't seem to work well with flex
 - [ascii emoticons](https://upli.st/l/list-of-all-ascii-emoticons) ( ͡° ͜ʖ ͡°)
 - [unobtrusive scrollbar](https://codepen.io/zachleat/pen/oNvprpX)
