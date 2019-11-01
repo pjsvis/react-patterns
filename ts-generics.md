@@ -1,5 +1,7 @@
 # generics
 
+- [tsdx](https://www.npmjs.com/package/tsdx) cli for components
+
 ```typescript
 function identity<T>(arg: T): T {
     return arg;
