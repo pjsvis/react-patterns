@@ -1,3 +1,9 @@
+## rest codegen
+
+- [restful-react](https://www.npmjs.com/package/restful-react)
+- [demos](https://codesandbox.io/s/restful-react-demos-fb9wn)
+- [using hooks andf codegen](https://www.youtube.com/watch?v=cdsnzfJUqm0&list=PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh&index=7&t=0s)
+
 ## graphql
 
 - [graphcool](https://www.graph.cool) graphql server
