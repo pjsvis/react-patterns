@@ -1,5 +1,6 @@
 ## css
 
+- [the evolution of material-design's text field](https://medium.com/google-design/the-evolution-of-material-designs-text-fields-603688b3fe03)
 - [grid cheatsheet](http://grid.malven.co/)
 - [lobotomised owl selectors](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/) for sensible margins -doesn't seem to work well with flex
 - [ascii emoticons](https://upli.st/l/list-of-all-ascii-emoticons) ( ͡° ͜ʖ ͡°)
