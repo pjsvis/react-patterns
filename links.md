@@ -7,6 +7,7 @@
 
 ## ie11
 
+- [the case for dropping ie11](https://css-tricks.com/a-business-case-for-dropping-internet-explorer/)
 - [ms recommendations](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/The-perils-of-using-Internet-Explorer-as-your-default-browser/ba-p/331732)
 - [why not ie11](https://death-to-ie11.netlify.com/)
 
