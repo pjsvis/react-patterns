@@ -1,5 +1,9 @@
 # links
 
+## compilers
+
+- [stencil](https://github.com/ionic-team/stencil)
+
 ## apps
 
 - [airtable](https://airtable.com) spreadsheet/database thing
