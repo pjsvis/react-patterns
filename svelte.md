@@ -10,6 +10,7 @@
 - [smelte crud app](https://github.com/Kiho/smelte-crud-app)
 - [checkbox treeview](https://svelte.dev/repl/3db8fdf6abfe4b2097a419ebf8e8eca7?version=3.6.10)
 - [use web components](https://www.robinwieruch.de/react-web-components/) in react
+- [svelte-adapter](https://github.com/pngwn/svelte-adapter)
 - [smelte](https://smelte.matyunya.now.sh) material design components for svelte)
 - [svelte](https://svelte.dev)
 - [webcomponents.dev](https://webcomponents.dev)
