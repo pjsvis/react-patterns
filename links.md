@@ -1,5 +1,6 @@
 # links
 
+- [sarus](https://sarus.anephenix.com/) a JavaScript library for WebSockets engineered to handle unexpected socket closures.
 - [alpine](https://github.com/alpinejs/alpine) a rugged, minimal framework for composing JavaScript behavior in your markup.
 
 ## compilers
