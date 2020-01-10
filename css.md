@@ -32,6 +32,7 @@
 ```
 
 - [Using easing for more than just CSS transitions](https://kilianvalkhof.com/2020/css-html/using-easing-for-more-than-just-css-transitions/)
+- [printer friendly pages](https://www.sitepoint.com/css-printer-friendly-pages/)
 
 ### style links
 
