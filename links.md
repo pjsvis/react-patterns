@@ -3,6 +3,12 @@
 - [sarus](https://sarus.anephenix.com/) a JavaScript library for WebSockets engineered to handle unexpected socket closures.
 - [alpine](https://github.com/alpinejs/alpine) a rugged, minimal framework for composing JavaScript behavior in your markup.
 
+## testing
+
+- eric elliot recommends:
+  - [test cafe](https://devexpress.github.io/testcafe/) for e2e testing
+  - [rite way](https://github.com/ericelliott/riteway) for unit testing
+
 ## compilers
 
 - [stencil](https://github.com/ionic-team/stencil)
