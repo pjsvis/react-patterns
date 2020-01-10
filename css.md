@@ -23,15 +23,14 @@
 .exit {
   animation-timing-function: cubic-bezier(0.5, 0, 0, 1);)
 }
-```
 
-```css
 .sinful-layout-animation {
   transition height: 0.3s ease-in-out;
   /* no layout reflow */
   contain: layout;
 }
 ```
+
 - [Using easing for more than just CSS transitions](https://kilianvalkhof.com/2020/css-html/using-easing-for-more-than-just-css-transitions/)
 
 ### style links
