@@ -10,6 +10,9 @@
 - [flexbox froggy](https://flexboxfroggy.com/)
 - [flexbox defense](http://www.flexboxdefense.com/)
 - [css diner](https://flukeout.github.io/)
+- [tachyons cheatsheet](https://roperzh.github.io/tachyons-cheatsheet/)
+- [ultimate tachyons cheatsheet](https://medium.com/@leetheguy/the-ultimate-tachyons-cheat-sheet-296ac15754be)
+
 
 
 
