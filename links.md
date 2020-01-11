@@ -3,6 +3,10 @@
 - [sarus](https://sarus.anephenix.com/) a JavaScript library for WebSockets engineered to handle unexpected socket closures.
 - [alpine](https://github.com/alpinejs/alpine) a rugged, minimal framework for composing JavaScript behavior in your markup.
 
+## a11y
+
+- [native modals](https://css-tricks.com/comparing-the-different-types-of-native-javascript-popups/)
+
 ## testing
 
 - eric elliot recommends:
