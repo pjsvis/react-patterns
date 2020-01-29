@@ -1,5 +1,6 @@
 # cheatsheets
 
+- [react ts best practices](https://www.sitepoint.com/react-with-typescript-best-practices/)
 - [gitsheet](https://gitsheet.wtf/)
 - [githistory](https://githistory.xyz/)
 - [a11ysupport](https://a11ysupport.io/)
