@@ -1,3 +1,10 @@
+---
+tags: [typescript]
+title: assert-never
+created: '2019-06-11T19:39:36.027Z'
+modified: '2019-08-03T09:56:27.481Z'
+---
+
 # typescript
 
 ## pick and omit

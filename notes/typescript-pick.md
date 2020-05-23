@@ -1,3 +1,10 @@
+---
+tags: [typescript]
+title: typescript-pick
+created: '2019-08-03T09:49:47.574Z'
+modified: '2019-08-03T09:55:57.969Z'
+---
+
 # typescript-pick
 
 If we have a type sat.Report and we want a partial type of some of Report for form data entry we can use Pick to create it
