@@ -1,6 +1,5 @@
 # links
 
-- [react-easy-state](https://github.com/RisingStack/react-easy-state)
 - [micro modal](https://github.com/ghosh/Micromodal)
 - [griddle](https://github.com/daveberning/griddle) grid framework
 - [old css, new css ](https://eev.ee/blog/2020/02/01/old-css-new-css/)
@@ -8,11 +7,17 @@
 - [graphile react starter](https://github.com/graphile/starter)
 - [sarus](https://sarus.anephenix.com/) a JavaScript library for WebSockets engineered to handle unexpected socket closures.
 - [alpine](https://github.com/alpinejs/alpine) a rugged, minimal framework for composing JavaScript behavior in your markup.
-- [react-ridge-state](https://github.com/web-ridge/react-ridge-state) neat state library that can use immer
 - [clickable svg graphs](https://medium.com/weekly-webtips/how-to-make-clickable-dynamic-graphics-in-react-using-svg-22071f96623d)
 - [react-visual-editors](https://blog.bitsrc.io/react-visual-editors-in-2020-de7759d5d592)
 - [lo-code editor](https://www.appgyver.com/)
 - [fetching data via REST](https://www.bitnative.com/2020/07/06/four-ways-to-fetch-data-in-react/)
+
+## state libs
+
+- [react-recoil](https://github.com/facebookexperimental/Recoil)
+- [zustand](https://github.com/react-spring/zustand) state management
+- [react-easy-state](https://github.com/RisingStack/react-easy-state)
+- [react-ridge-state](https://github.com/web-ridge/react-ridge-state) neat state library that can use immer
 
 ## a11y
 
