@@ -1,5 +1,6 @@
 # links
 
+- [airbnb's ts-migrate](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc)
 - [ux-design](https://www.smashingmagazine.com/guides/ux-design/)
 - [react storybook dev](https://www.smashingmagazine.com/2020/09/building-react-apps-storybook/)
 - [micro modal](https://github.com/ghosh/Micromodal)
