@@ -1,5 +1,6 @@
 # links
 
+- [optimize useState with functions](https://www.benmvp.com/blog/four-characters-optimize-react-component/)
 - [styled components](https://medium.com/javascript-in-plain-english/the-modern-way-to-style-with-styled-components-c3c51b750b5f)
 - [react-cheatsheet](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
 - [airbnb's visx graphics primitives](https://medium.com/airbnb-engineering/introducing-visx-from-airbnb-fd6155ac4658)
