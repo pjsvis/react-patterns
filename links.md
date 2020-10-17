@@ -1,5 +1,8 @@
 # links
 
+- [react reparenting](https://github.com/Paol-imi/react-reparenting)
+- [five awesome react packages](https://medium.com/javascript-in-plain-english/five-awesome-react-packages-to-check-out-1ee42f2c19f7)
+- [chakra UI](https://blog.bitsrc.io/review-of-chakra-ui-651157bdf43a)
 - [optimize useState with functions](https://www.benmvp.com/blog/four-characters-optimize-react-component/)
 - [styled components](https://medium.com/javascript-in-plain-english/the-modern-way-to-style-with-styled-components-c3c51b750b5f)
 - [react-cheatsheet](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
