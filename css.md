@@ -1,5 +1,6 @@
 ## css
 
+- [just in case mindset](https://ishadeed.com/article/the-just-in-case-mindset-css/)
 - [custom css styles for form inputs](https://moderncss.dev/custom-css-styles-for-form-inputs-and-textareas/)
 - [myths of color contrast accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
 - [arrow type recursive mono & sans](https://github.com/arrowtype/recursive)
