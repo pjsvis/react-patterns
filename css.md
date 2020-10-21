@@ -1,5 +1,6 @@
 ## css
 
+- [custom css styles for form inputs](https://moderncss.dev/custom-css-styles-for-form-inputs-and-textareas/)
 - [myths of color contrast accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
 - [arrow type recursive mono & sans](https://github.com/arrowtype/recursive)
 - [fixing font variability inheritance](https://pixelambacht.nl/2019/fixing-variable-font-inheritance/)
