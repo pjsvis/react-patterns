@@ -1,5 +1,17 @@
 ## css
 
+-  I'm also particularly impressed with the simplest of CSS that will make almost any webpage look good. [ref](https://responsivedesign.is/articles/rwd-weekly-433/?utm_source=Responsive+Design+Weekly&utm_campaign=4e437a1ff5-RWD_Newsletter_433&utm_medium=email&utm_term=0_df65b6d7c8-4e437a1ff5-52081993)
+
+```css
+html {
+  max-width:70ch;
+  padding:2ch;
+  margin:auto;
+  color:#333;
+  font-size:1.2em;
+}
+```
+
 - [just in case mindset](https://ishadeed.com/article/the-just-in-case-mindset-css/)
 - [custom css styles for form inputs](https://moderncss.dev/custom-css-styles-for-form-inputs-and-textareas/)
 - [myths of color contrast accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
