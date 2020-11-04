@@ -1,5 +1,6 @@
 # links
 
+- [front end dev resources](https://github.com/developer-resources/frontend-development)
 - [react reparenting](https://github.com/Paol-imi/react-reparenting)
 - [five awesome react packages](https://medium.com/javascript-in-plain-english/five-awesome-react-packages-to-check-out-1ee42f2c19f7)
 - [chakra UI](https://blog.bitsrc.io/review-of-chakra-ui-651157bdf43a)
