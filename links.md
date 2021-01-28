@@ -1,5 +1,6 @@
 # links
 
+- [The tao of React](https://alexkondov.com/tao-of-react/)
 - [front end dev resources](https://github.com/developer-resources/frontend-development)
 - [react reparenting](https://github.com/Paol-imi/react-reparenting)
 - [five awesome react packages](https://medium.com/javascript-in-plain-english/five-awesome-react-packages-to-check-out-1ee42f2c19f7)
