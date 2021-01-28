@@ -1,5 +1,6 @@
 # links
 
+- [Hooks and Typescript](https://medium.com/@steven_creates/how-to-use-react-hooks-usecontext-and-usereducer-with-typescript-f616067248dd)
 - [The tao of React](https://alexkondov.com/tao-of-react/)
 - [front end dev resources](https://github.com/developer-resources/frontend-development)
 - [react reparenting](https://github.com/Paol-imi/react-reparenting)
