@@ -94,4 +94,5 @@ module.exports = {
       processor: 'svelte3/svelte3'
     }
   ]
+  }
 ```
