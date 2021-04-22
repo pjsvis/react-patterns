@@ -12,6 +12,7 @@ html {
 }
 ```
 
+- [things you can do with css now](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
 - [just in case mindset](https://ishadeed.com/article/the-just-in-case-mindset-css/)
 - [custom css styles for form inputs](https://moderncss.dev/custom-css-styles-for-form-inputs-and-textareas/)
 - [myths of color contrast accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
