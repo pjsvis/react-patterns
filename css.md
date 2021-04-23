@@ -12,6 +12,7 @@ html {
 }
 ```
 
+- [css frameworks](https://alexmercedcoder.medium.com/ultimate-2021-list-of-css-frameworks-and-component-libraries-for-angular-react-vue-and-svelte-696ef7ca0032)
 - [things you can do with css now](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
 - [just in case mindset](https://ishadeed.com/article/the-just-in-case-mindset-css/)
 - [custom css styles for form inputs](https://moderncss.dev/custom-css-styles-for-form-inputs-and-textareas/)
