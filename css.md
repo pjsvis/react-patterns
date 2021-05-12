@@ -1,5 +1,10 @@
 ## css
 
+### fonts
+
+- [computer-modern](https://www.checkmyworking.com/cm-web-fonts/)
+
+
 -  I'm also particularly impressed with the simplest of CSS that will make almost any webpage look good. [ref](https://responsivedesign.is/articles/rwd-weekly-433/?utm_source=Responsive+Design+Weekly&utm_campaign=4e437a1ff5-RWD_Newsletter_433&utm_medium=email&utm_term=0_df65b6d7c8-4e437a1ff5-52081993)
 
 ```css
