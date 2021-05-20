@@ -1,5 +1,6 @@
 # links
 
+- [REacType](https://reactype.io/index.html) a visual prototyping tool for React developers
 - [state designed](https://www.state-designer.com/) inspired by xstate
 - [typescript function syntaxes](https://kentcdodds.com/blog/typescript-function-syntaxes)
 - [Hooks and Typescript](https://medium.com/@steven_creates/how-to-use-react-hooks-usecontext-and-usereducer-with-typescript-f616067248dd)
