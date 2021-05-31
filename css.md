@@ -1,5 +1,7 @@
 ## css
 
+- [Josh Comeau Blog](https://www.joshwcomeau.com/) about CSS
+
 ### fonts
 
 - [computer-modern](https://www.checkmyworking.com/cm-web-fonts/)
