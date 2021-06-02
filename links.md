@@ -1,5 +1,11 @@
 # links
 
+## libraries
+
+- [7 top libs](https://betterprogramming.pub/top-7-libraries-for-blazingly-fast-reactjs-applications-c0069e87c8b7)
+
+## links
+
 - [panwriter](https://github.com/mb21/panwriter)
 - [advanced react patterns](https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6)
 - [ReacType](https://reactype.io/index.html) a visual prototyping tool for React developers
