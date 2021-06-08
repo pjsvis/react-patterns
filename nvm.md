@@ -1,0 +1,1 @@
+- [Install specific version of npm](https://stackoverflow.com/questions/9755841/how-can-i-change-the-version-of-npm-using-nvm/47519162#47519162)
