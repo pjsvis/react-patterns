@@ -1,5 +1,6 @@
 # generics
 
+- [Extra TS Types](https://github.com/sindresorhus/type-fest)
 - [tsdx](https://www.npmjs.com/package/tsdx) cli for components
 
 ```typescript
