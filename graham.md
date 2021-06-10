@@ -6,3 +6,5 @@
 - https://github.com/Baedda/floating-form-labels/issues/12
 - https://stackoverflow.com/questions/63908091/angular-6-chrome-autofill-label-overlapping-issue
 - https://www.google.com/search?q=mac+autofill+form+input+overlap&sxsrf=ALeKk01ORDbYeITANxXVYdbVa2XmqM_u8g:1623339606448&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwid692ks43xAhUvA2MBHaI3B50QpwV6BAgBECQ&biw=1920&bih=941
+- https://medium.com/@KevinBGreene/migrating-from-tslint-to-eslint-6382f8bd3b6
+- https://code.visualstudio.com/api/advanced-topics/tslint-eslint-migration
