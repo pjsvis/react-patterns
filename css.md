@@ -19,6 +19,7 @@ html {
 }
 ```
 
+- [flexbox tips](https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6)
 - [turbo css](https://boomla.com/turbo-css)
 - [masonry layouts](https://freefrontend.com/css-masonry-layout-examples/)
 - [css frameworks](https://alexmercedcoder.medium.com/ultimate-2021-list-of-css-frameworks-and-component-libraries-for-angular-react-vue-and-svelte-696ef7ca0032)
