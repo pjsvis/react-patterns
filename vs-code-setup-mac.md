@@ -1,7 +1,8 @@
-# Setup VsCode on Mac
+# Setup VsCode extensions on Mac
 
 1. Open the Command Palette (Cmd+Shift+P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
-2. Paste in the following
+2. Restart the vscode terminal
+3. Copy and paste the following into vscode terminal 
 
 ```
 code --install-extension aaron-bond.better-comments
