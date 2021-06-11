@@ -1,5 +1,6 @@
 # react-query
 
+- [why use react-query](https://medium.com/@cant89/data-fetching-in-redux-is-painful-get-rid-of-it-now-2b71305268e1)
 - [home](https://react-query.tanstack.com/)
 - [axios](https://github.com/axios)
 - [how to use](https://easyontheweb.com/what-is-react-query-and-how-to-use-it/)
