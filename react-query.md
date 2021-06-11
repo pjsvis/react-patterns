@@ -1,5 +1,6 @@
 # react-query
 
+- [pro react typescript tips](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
 - [react typescript best practices](https://www.sitepoint.com/react-with-typescript-best-practices/)
 - [swr from vercel](https://swr.vercel.app/)
 - [why use react-query](https://medium.com/@cant89/data-fetching-in-redux-is-painful-get-rid-of-it-now-2b71305268e1)
