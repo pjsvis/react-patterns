@@ -1,5 +1,6 @@
 # react-query
 
+- [swr from vercel](https://swr.vercel.app/)
 - [why use react-query](https://medium.com/@cant89/data-fetching-in-redux-is-painful-get-rid-of-it-now-2b71305268e1)
 - [home](https://react-query.tanstack.com/)
 - [axios](https://github.com/axios)
