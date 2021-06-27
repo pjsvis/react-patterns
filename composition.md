@@ -6,3 +6,4 @@
 - [Jotai minimalistic state management](https://github.com/pmndrs/jotai)
 - [Dan Abramov on file structure](https://react-file-structure.surge.sh/)
 - [React Remix](https://remix.run/)
+- [Refactoring to react-query](https://www.youtube.com/watch?v=eEKn8UJfYgc)
