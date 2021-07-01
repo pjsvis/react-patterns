@@ -7,3 +7,4 @@
 - [Dan Abramov on file structure](https://react-file-structure.surge.sh/)
 - [React Remix](https://remix.run/)
 - [Refactoring to react-query](https://www.youtube.com/watch?v=eEKn8UJfYgc)
+- [Solid.js](https://www.solidjs.com/)
