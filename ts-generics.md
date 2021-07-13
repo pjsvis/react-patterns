@@ -2,6 +2,7 @@
 
 - [Figma article on migrate to strict null checks](https://www.figma.com/blog/inside-figma-a-case-study-on-strict-null-checks/)
 - [migrate to strictNullChecks tools](https://github.com/figma/strict-null-check-migration-tools)
+- [VSCode migration to strictNullChecks](https://code.visualstudio.com/blogs/2019/05/23/strict-null)
 
 - [Extra TS Types](https://github.com/sindresorhus/type-fest)
 - [tsdx](https://www.npmjs.com/package/tsdx) cli for components
