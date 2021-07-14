@@ -6,6 +6,7 @@
 - [Qerko mod]()
 - [Extra TS Types](https://github.com/sindresorhus/type-fest)
 - [ts-strictify blog post](https://dev.to/viridia/typescript-strictnullchecks-a-migration-guide-3glo)
+- [betterer](https://dev.to/phenomnominal/stricter-typescript-compilation-with-betterer-dp7)
 - [tsdx](https://www.npmjs.com/package/tsdx) cli for components
 
 ```typescript
