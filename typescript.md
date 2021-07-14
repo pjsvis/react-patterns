@@ -5,7 +5,7 @@
 - [VSCode migration to strictNullChecks](https://code.visualstudio.com/blogs/2019/05/23/strict-null)
 - [Qerko mod]()
 - [Extra TS Types](https://github.com/sindresorhus/type-fest)
-- 
+- [ts-strictify blog post](https://dev.to/viridia/typescript-strictnullchecks-a-migration-guide-3glo)
 - [tsdx](https://www.npmjs.com/package/tsdx) cli for components
 
 ```typescript
