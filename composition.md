@@ -11,3 +11,27 @@
 - [React Remix](https://remix.run/)
 - [Refactoring to react-query](https://www.youtube.com/watch?v=eEKn8UJfYgc)
 - [Solid.js](https://www.solidjs.com/)
+
+```javascript
+function useLogger([state, dispatch]) {
+  const actionRef = useRef()
+  const newDispatchRef = useRef(action => 
+  {
+    actionRef.current = action
+    dispatch(action)
+  })
+  
+  useEffect(() => {
+    const action = actionRef.current
+    
+    if(action){
+      console.group('Dispatch')
+      console.log('Action', action)
+      console.log('State', state)
+      console.groupEnd()
+    }
+  }, [state]
+  return[state, newDispatch.current] 
+}
+
+```
