@@ -1,4 +1,12 @@
-## svelte
+# svelte
+
+## svelte-kit
+
+- [james q quick crash course](https://www.youtube.com/watch?v=UU7MgYIbtAk)
+- [svelte-kit docs](https://kit.svelte.dev/docs)
+- [setup tailwindcss](https://jsco.dev/blog/how-to-set-up-tailwindcss-with-svelte-kit)
+
+## misc
 
 - [why svelte won't kill react](https://medium.com/javascript-in-plain-english/why-svelte-wont-kill-react-3cfdd940586a)
 - [m volkmann](https://github.com/mvolkmann/talks/blob/master/svelte/svelte-nordicjs.key.pdf) presentation
