@@ -9,6 +9,7 @@
 
 ## misc
 
+- [data loading](https://www.youtube.com/watch?v=_K7LRy6IP_4)
 - [why svelte won't kill react](https://medium.com/javascript-in-plain-english/why-svelte-wont-kill-react-3cfdd940586a)
 - [m volkmann](https://github.com/mvolkmann/talks/blob/master/svelte/svelte-nordicjs.key.pdf) presentation
 - [svelte draggable grid](https://github.com/vaheqelyan/svelte-grid)
