@@ -1,5 +1,6 @@
 # cheatsheets
 
+- [react status](https://react.statuscode.com/issues/259) with good processes
 - [react-philosophies](https://github.com/mithi/react-philosophies)
 - [react ts best practices](https://www.sitepoint.com/react-with-typescript-best-practices/)
 - [gitsheet](https://gitsheet.wtf/)
