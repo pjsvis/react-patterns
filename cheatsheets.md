@@ -1,5 +1,6 @@
 # cheatsheets
 
+- [clean architecture](https://kpiteng.medium.com/react-clean-architecture-e4144a0788b6)
 - [react status](https://react.statuscode.com/issues/259) with good processes
 - [react-philosophies](https://github.com/mithi/react-philosophies)
 - [react ts best practices](https://www.sitepoint.com/react-with-typescript-best-practices/)
