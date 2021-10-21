@@ -2,7 +2,8 @@
 
 - [Josh Comeau Blog](https://www.joshwcomeau.com/) about CSS
 - [shadows](https://www.joshwcomeau.com/css/designing-shadows/)
-
+- [smashing magazine 21-10-14](https://www.smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/)
+- 
 ### fonts
 
 - [computer-modern](https://www.checkmyworking.com/cm-web-fonts/)
