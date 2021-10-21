@@ -1,6 +1,7 @@
 ## css
 
 - [Josh Comeau Blog](https://www.joshwcomeau.com/) about CSS
+- [shadows](https://www.joshwcomeau.com/css/designing-shadows/)
 
 ### fonts
 
