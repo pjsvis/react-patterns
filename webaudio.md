@@ -12,3 +12,4 @@
 - [step sequencer](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques)
 - [MDN WebMidi](https://developer.mozilla.org/en-US/docs/Web/API/Web_MIDI_API)
 - [bitmidi.com](https://bitmidi.com/)
+- [midi-val](https://kulak.medium.com/midival-release-0-0-14-a5db9041db69)
