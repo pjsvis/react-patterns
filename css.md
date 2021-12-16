@@ -1,5 +1,6 @@
 ## css
 
+- [pico.css](https://github.com/picocss/pico) classless styling for html elements
 - [modern css reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [Josh Comeau Blog](https://www.joshwcomeau.com/) about CSS
 - [shadows](https://www.joshwcomeau.com/css/designing-shadows/)
