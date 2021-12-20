@@ -2,6 +2,7 @@
 
 ## svelte-kit
 
+- [svelte-fsm](https://www.npmjs.com/package/svelte-fsm)
 - [james q quick crash course](https://www.youtube.com/watch?v=UU7MgYIbtAk)
 - [repo](https://github.com/jamesqquick/svelte-kit-pokedex)
 - [svelte-kit docs](https://kit.svelte.dev/docs)
