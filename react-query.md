@@ -1,5 +1,6 @@
 # react-query
 
+- [react-query error handling](https://tkdodo.eu/blog/react-query-error-handling)
 - [pro react typescript tips](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
 - [react typescript best practices](https://www.sitepoint.com/react-with-typescript-best-practices/)
 - [swr from vercel](https://swr.vercel.app/)
