@@ -1,5 +1,9 @@
 # c#
 
+## di
+
+- [basic video](https://www.youtube.com/watch?v=HXKGKvoQ0Xs)
+
 ## redis
 
 - [stackexchange.redis and memurai](https://github.com/StackExchange/StackExchange.Redis/issues/1794)
