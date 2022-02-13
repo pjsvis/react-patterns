@@ -1,5 +1,11 @@
 # c#
 
+## json serializers
+
+- [utf8json](https://im5tu.io/article/2018/07/utf8json-media-formatters-for-asp.net-core/)
+- [replace json.net with newtonsoft](https://dotnetcoretutorials.com/2019/12/19/using-newtonsoft-json-in-net-core-3-projects/)
+- [json.net options](https://makolyte.com/aspdotnet-how-to-change-the-json-serialization-settings/)
+
 ## di
 
 - [basic video](https://www.youtube.com/watch?v=HXKGKvoQ0Xs)
