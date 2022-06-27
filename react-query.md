@@ -1,5 +1,6 @@
 # react-query
 
+- [react-query faq](https://tkdodo.eu/blog/react-query-fa-qs)
 - [building a real app with react-query](https://www.smashingmagazine.com/2022/01/building-real-app-react-query/)
 - [react-query error handling](https://tkdodo.eu/blog/react-query-error-handling)
 - [pro react typescript tips](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
