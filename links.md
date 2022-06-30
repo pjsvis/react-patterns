@@ -6,6 +6,7 @@
 
 ## links
 
+- [react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap)
 - [react-svg](https://github.com/tanem/react-svg)
 - [react-virtuoso](https://virtuoso.dev/) for large datasets
 - [panwriter](https://github.com/mb21/panwriter)
