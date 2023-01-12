@@ -1,5 +1,6 @@
 ## css
 
+- [usability 2023](https://www.smashingmagazine.com/2023/01/usability-2023/)
 - [FlexBox Interactive Guide](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [pico.css](https://github.com/picocss/pico) classless styling for html elements
 - [modern css reset](https://www.joshwcomeau.com/css/custom-css-reset/)
