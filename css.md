@@ -1,5 +1,6 @@
 ## css
 
+- [Show and element for a period and then hide](https://codepen.io/rishatmuhametshin/pen/BaWzLdX)
 - [usability 2023](https://www.smashingmagazine.com/2023/01/usability-2023/)
 - [FlexBox Interactive Guide](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [pico.css](https://github.com/picocss/pico) classless styling for html elements
