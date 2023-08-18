@@ -1,5 +1,6 @@
 ## css
 
+- [Barba page transition: really cool](https://barba.js.org/docs/getstarted/intro/)
 - [styleing buttons with css variables](https://dev.to/isevcik/styling-button-component-with-css-custom-variables-d6h)
 - [postcss deep dive](https://webdesign.tutsplus.com/series/postcss-deep-dive--cms-889)
 - [use post-css with create-react-app](https://9to5tutorial.com/create-a-postcss-environment-with-create-react-app)
