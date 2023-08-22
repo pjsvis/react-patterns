@@ -1,8 +1,9 @@
 ## css
 
-- global.d.ts
+
 
 ```typescript
+// global.d.ts
 import React from "react";
 
 declare module "react" {
