@@ -1,7 +1,7 @@
 ## css
 
 
-```javascript
+```js
 getComputedStyle(document.documentElement)
   .getPropertyValue('--color-primary');
 
@@ -12,8 +12,8 @@ document.documentElement.style.setProperty(
 ```
 
 
-
-- [css variales for react devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs/)
+- see above for some code
+- [css variables for react devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs/)
 - [Barba page transition: really cool](https://barba.js.org/docs/getstarted/intro/)
 - [styleing buttons with css variables](https://dev.to/isevcik/styling-button-component-with-css-custom-variables-d6h)
 - [postcss deep dive](https://webdesign.tutsplus.com/series/postcss-deep-dive--cms-889)
