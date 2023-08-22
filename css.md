@@ -1,5 +1,6 @@
 ## css
 
+global.d.ts
 
 ```typescript
 import React from "react";
