@@ -1,5 +1,23 @@
 ## css
 
+
+```typescript
+import React from "react";
+
+declare module "react" {
+  // augment CSSProperties here
+  interface CSSProperties {
+    "--value"?: string | number;
+    "--size"?: string | number;
+    "--thickness"?: string | number;
+  }
+}
+```
+
+```jsx
+<div className="radial-progress" style={{"--value":70}}>70%</div>
+```
+
 ```css
 const style:React.CSSProperties = {
   padding:13,
