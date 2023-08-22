@@ -1,5 +1,11 @@
 ## css
 
+```css
+const style:React.CSSProperties = {
+  padding:13,
+  xxx: 13
+};
+```
 
 ```js
 getComputedStyle(document.documentElement)
