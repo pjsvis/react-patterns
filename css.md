@@ -1,6 +1,24 @@
 ## css
 
+```css
+/* responsiveness */
 
+:root {
+  --max-width: 1200px;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --max-width: 100%;
+  }
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+```
 
 ```typescript
 // global.d.ts
