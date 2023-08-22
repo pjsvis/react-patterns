@@ -1,5 +1,19 @@
 ## css
 
+
+```javascript
+getComputedStyle(document.documentElement)
+  .getPropertyValue('--color-primary');
+
+document.documentElement.style.setProperty(
+  '--color-primary',
+  'hsl(245deg, 100%, 40%)'
+);
+```
+
+
+
+- [css variales for react devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs/)
 - [Barba page transition: really cool](https://barba.js.org/docs/getstarted/intro/)
 - [styleing buttons with css variables](https://dev.to/isevcik/styling-button-component-with-css-custom-variables-d6h)
 - [postcss deep dive](https://webdesign.tutsplus.com/series/postcss-deep-dive--cms-889)
