@@ -61,7 +61,7 @@ document.documentElement.style.setProperty(
   'hsl(245deg, 100%, 40%)'
 );
 ```
-
+- [React CSS variables in components and CSS files](https://patrickdesjardins.com/blog/react-css-variable-component-css-files)
 - [visbug FireBug for designers](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 - [vscode intellisense for css variables, including open-props](https://marketplace.visualstudio.com/items?itemName=vunguyentuan.vscode-css-variables)
 - [css variable](https://www.atatus.com/blog/css-variables/) see above for some code
