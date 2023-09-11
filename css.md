@@ -68,7 +68,11 @@ document.documentElement.style.setProperty(
 - [bem namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
 - [more bem namespacing](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 
-= [FormData API with react](https://mattboldt.com/2020/05/02/formdata-with-react-hooks-and-fetch/)
+## form data api
+
+- [FormData API with react](https://mattboldt.com/2020/05/02/formdata-with-react-hooks-and-fetch/)
+
+## css
 
 - [React CSS variables in components and CSS files](https://patrickdesjardins.com/blog/react-css-variable-component-css-files)
 - [visbug FireBug for designers](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
