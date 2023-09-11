@@ -61,6 +61,15 @@ document.documentElement.style.setProperty(
   'hsl(245deg, 100%, 40%)'
 );
 ```
+
+## bem
+
+- [solving bem common problems](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
+- [bem namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
+- [more bem namespacing](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+
+= [FormData API with react](https://mattboldt.com/2020/05/02/formdata-with-react-hooks-and-fetch/)
+
 - [React CSS variables in components and CSS files](https://patrickdesjardins.com/blog/react-css-variable-component-css-files)
 - [visbug FireBug for designers](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 - [vscode intellisense for css variables, including open-props](https://marketplace.visualstudio.com/items?itemName=vunguyentuan.vscode-css-variables)
