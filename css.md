@@ -61,6 +61,9 @@ document.documentElement.style.setProperty(
   'hsl(245deg, 100%, 40%)'
 );
 ```
+## download files
+- [File Download](https://medium.com/@chomal/export-and-download-excel-files-with-net-core-and-react-dc7b5c40ecae)
+
 
 ## bem
 
